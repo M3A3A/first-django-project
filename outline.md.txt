@@ -1,0 +1,24 @@
+jobs 
+	title
+	descrbtion
+	jobtype
+	Category
+	Location
+	post job
+	apply job
+	
+Blog
+	time
+	title
+	describtion
+	category
+	tags
+	author
+	
+	comments
+
+contact
+home
+
+login
+	
